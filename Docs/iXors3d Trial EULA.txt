@@ -1,0 +1,62 @@
+Software License Agreement for iXors3d Trial
+
+Please read the following terms and conditions carefully.
+By installing the Software (as defined below) you (either on behalf of yourself as an individual or on behalf of an entity as its authorized representative) agree to all of the terms of this end user license agreement regarding the use of the Software. If you do not agree with all of the terms of this agreement do not install and/or use the Software.
+
+1) LICENSE AGREEMENT:
+
+Subject to the terms below (the 'Agreement'), XorsTeam hereby grants you a non-exclusive, non-transferable license to install and to use iXors3d Trial or iXors3d Indie or iXors3d Pro (the 'Software').
+
+Except during the trial period, the Software must not be used without a valid license. A license of the Software must only be used on one workstation simultaneously. 
+
+It is allowed to make copies of the Software only for the purpose of archiving and back-up copying. Spreading and copying of the Software by other mean and for different aims are prohibited.
+
+The runtime may be redistributed royalty free, as long as it is produced using a licensed 
+installation of the Software. Copyright notices from Licensor may not be removed from the 
+runtime.
+
+2) LICENSING RESTRICTIONS:
+
+(a) iXors3d Trial can be used only with iPhone Simulator. iXors3d Trial must be used only for educational and evaluation purposes. Licensor may not modify or use third-party software to deactivate limiting mechanisms of iXors3d Trial. 
+
+(b) iXors3d Pro may be licensed by any company, incorporated entity, or individual.
+
+(c) Companies or incorporated entities that had a turnover in excess of US$100,000 in their last fiscal year must use iXors3d Pro.
+
+(d) A company, incorporated entity, or individual may not use both iXors3d Indie and iXors3d Pro.
+
+(e) Licensee may not:
+
+(i) distribute or release any derivative works of the Software, including but not limited to translations, localizations, starter kits, technology add-ons, or game making software;
+
+(ii) reverse engineer, or otherwise attempt to derive the algorithms for the Software;
+
+(iii) redistribute, sell, rent, lease, sublicense, or otherwise transfer rights to the Software;
+
+(iv) remove or alter any trademark, logo, copyright or other proprietary notices, legends, symbols or labels in the Software.
+
+(f) Licensee may not distribute the source code or official documentation to the Software in any manner, unless recipient also has a current, valid license to the Software. Licensee shall use all commercially reasonable efforts to protect against the unauthorized disclosure of the source code to any of the software licensed under this Agreement.
+
+3) COPYRIGHT AND OWNERSHIP:
+
+No title to the intellectual property in the Software is transferred to you. Title, ownership, rights, and intellectual property rights in and to the Software shall remain that of Licensor or their respective owner.
+
+4) DISCLAIMER OF WARRANTY:
+
+Licensee agrees that Licensor has made no express warranties, oral or written, to Licensee regarding the Software and that the Software is being provided to Licensee 'as is' without warranty of any kind. Licensor disclaims any and all other warranties, whether expressed, implied, or statutory. Licensor shall not be liable for indirect, incidental, special, cover, reliance, or consequential damages resulting from the use of the Software.
+
+If you do not accept this disclaimer of warranty or it is not enforceable in your jurisdiction, then you may not use the Software.
+
+5) LIMITATION OF LIABILITY:
+
+Licensee agrees that use of the Software is at their own risk. Licensee agrees that they or any third party shall not have any claim against Licensor or anyone associated directly or indirectly with Licensor for any direct, indirect, consequential, special, exemplary, punitive, and/or other damages (including with out limitation harm, injury, loss of profits, loss of data and/or business interruption) from any cause, in connection to the use and/or distribution of the Software.
+
+If you do not accept this disclaimer of warranty or it is not enforceable in your jurisdiction, then you may not use the Software.
+
+6) TERMINATION:
+
+This Agreement shall terminate automatically if Licensee fail to comply with the limitations described in this Agreement. No notice shall be required to effectuate such termination. Upon termination, Licensee must remove and destroy all copies of the Software.
+
+7) MISCELLANEOUS:
+
+If any provision in this agreement is unenforceable or invalid it shall not affect the rest of the agreement. The Licensee agrees to replace any unenforceable or invalid provision with a valid provision that upholds the intent of the provision to the greatest extent possible.
